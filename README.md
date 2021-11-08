@@ -1,4 +1,7 @@
 # SpringBoot
 ### The repository includes SpringBoot-Java codes!📢
 
-I have an online meeting every Friday💻. It' s about Spring Boot. We write code on Java and we will listen 🔊 our port with special path. When we improve our project and create a new one, I am going to push them on this repository.👩‍💻 I' ll learn it well and I' ll create my project! 🧐
+>Bu repoda Spring Boot ile birlikte browsera yapılan get işlemleri ve sonrasında *Postman* üzerinden gözlemlediğimiz get, post, delete gibi işlemler bulunmaktadır. Ayrıca veri tabanı olarak *H2 Database* kullanılmış ve bu işlemler veri tabanı üzerinde yapılmıştır.
+<br>
+
+📢**Her klasör altındaki README.md dosyasında ilgili kısımlarla alakalı açıklamalar verilmiştir.**
